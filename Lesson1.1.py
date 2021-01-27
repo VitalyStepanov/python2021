@@ -1,0 +1,6 @@
+name = input('Enter name: ')
+print('hallo', name, '!')
+age = int(input('Enter age:'))
+print(int(age))
+birthday = int(input('Enter your year of birth: '))
+print('В 2021 году вам исполнится', 2021 - birthday)
